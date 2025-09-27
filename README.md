@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Axdeshw&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="[https://github-readme-stats.vercel.app/api?username=Axdeshw&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats](https://camo.githubusercontent.com/6c4e32e9489e7d52b5cb98ad6e63b8aa756d9fe70a9c7febe4910d025ea2021d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4178646573687769642673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565)" />
     </td>
   </tr>
 </table>
